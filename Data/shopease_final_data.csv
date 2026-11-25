@@ -1,0 +1,11 @@
+order_id,customer_id,product_id,order_date,quantity,order_status,customer_name,city,segment,product_name,category,price,revenue
+1001,101,201,2026-01-05,1,Delivered,Amit Sharma,Pune,Regular,Laptop,Electronics,50000.0,50000.0
+1002,102,202,2026-01-07,2,Delivered,Neha Patil,Mumbai,Premium,Mobile,Electronics,25000.0,50000.0
+1003,103,203,2026-01-10,3,Pending,Rahul Verma,Delhi,Regular,Headphones,Electronics,2000.0,6000.0
+1004,101,204,2026-01-15,2,Delivered,Amit Sharma,Pune,Regular,Shoes,Fashion,3000.0,6000.0
+1005,104,205,2026-01-20,5,Delivered,Sneha Joshi,Pune,Premium,T Shirt,Fashion,800.0,4000.0
+1006,105,206,2026-02-02,10,Cancelled,Arjun Mehta,Mumbai,Regular,Coffee,Grocery,500.0,5000.0
+1007,102,201,2026-02-05,1,Delivered,Neha Patil,Mumbai,Premium,Laptop,Electronics,50000.0,50000.0
+1008,104,202,2026-02-10,1,Pending,Sneha Joshi,Pune,Premium,Mobile,Electronics,25000.0,25000.0
+1009,103,204,2026-02-15,2,Delivered,Rahul Verma,Delhi,Regular,Shoes,Fashion,3000.0,6000.0
+1010,105,203,2026-02-20,2,Delivered,Arjun Mehta,Mumbai,Regular,Headphones,Electronics,2000.0,4000.0
