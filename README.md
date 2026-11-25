@@ -7,7 +7,7 @@ The objective is to build an end-to-end Data Analytics project covering data ext
 
 ## Dashboard Preview
 
-![ShopEase Dashboard](images/dashboard_preview.png)
+![ShopEase Dashboard](images/dashboard_preview.png.png)
 
 ## Project Objectives
 - Analyze overall sales performance.
